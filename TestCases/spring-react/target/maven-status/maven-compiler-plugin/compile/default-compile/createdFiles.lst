@@ -1,0 +1,8 @@
+com\gcit\springbootreact\controller\ClientsController.class
+com\gcit\springbootreact\repository\ClientRepository.class
+com\gcit\springbootreact\model\Client.class
+com\gcit\springbootreact\dto\ClientConfigDto.class
+com\gcit\springbootreact\SpringBootReactApplication.class
+com\gcit\springbootreact\controller\ClientConfigController.class
+com\gcit\springbootreact\model\ClientConfig.class
+com\gcit\springbootreact\repository\ClientConfigRepository.class
